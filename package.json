@@ -1,0 +1,12 @@
+{
+	"id": "fruux",
+	"name": "Fruux",
+	"version": "0.1",
+	"description": "Fruux Calendar",
+	"main": "index.js",
+	"author": "Ayush Singh",
+	"config": {
+		"serviceURL": "https://fruux.com/calendars/"
+	}
+}
+
