@@ -1,10 +1,12 @@
 {
 	"id": "fruux",
 	"name": "Fruux",
-	"version": "0.1",
+	"version": "1.0.0",
 	"description": "Fruux Calendar",
 	"main": "index.js",
-	"author": "Ayush Singh",
+	"author": "Ayush Singh <singh-ayush@protonmail.com>" ,
+	"licence": "MIT",
+	"repository": "https://github.com/s-ayush/recipe-franz-fruux",
 	"config": {
 		"serviceURL": "https://fruux.com/calendars/"
 	}
